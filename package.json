@@ -10,6 +10,6 @@
     "ffmpeg-static": "*"
   },
   "devDependencies": {
-    "@kmamal/packager": "^0.0.2"
+    "@kmamal/packager": "*"
   }
 }
