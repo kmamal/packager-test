@@ -1,0 +1,15 @@
+{
+  "version": "0.0.0",
+  "name": "example",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "packager -d dist"
+  },
+  "dependencies": {
+    "@kmamal/sdl": "*",
+    "ffmpeg-static": "*"
+  },
+  "devDependencies": {
+    "@kmamal/packager": "^0.0.2"
+  }
+}
