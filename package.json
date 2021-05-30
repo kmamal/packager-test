@@ -1,6 +1,6 @@
 {
   "version": "0.0.0",
-  "name": "example",
+  "name": "sdl-example-13-packaging",
   "main": "src/index.js",
   "scripts": {
     "build": "packager -d dist"
